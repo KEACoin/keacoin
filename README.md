@@ -34,7 +34,7 @@ Reddit: https://www.reddit.com/user/KEACoin/
 
 Telegram account: https://t.me/KEACoin
 
-Telegram Channel: KEA Coin in Telegram Channel
+Telegram Channel: https://t.me/KEACoinChannel
 
 Discord: https://discord.gg/c7GbJcB
 
